@@ -7,6 +7,10 @@
     <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%388ccd&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Web+Developer;From+Sri+Lanka;Always+learning+new+things"></a>
+</p>
+
 <h2> About Me </h2>
 
 - 🌱 I’m currently learning **php, C#, Java, MySql**
