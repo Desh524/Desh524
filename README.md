@@ -27,17 +27,22 @@
 </center>
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 15px;"> Connect with me:</h2>
-<p align="center">
+<p align="center" style="text-decoration:none;">		
   <a href="mailto:lahirujayawardana6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/deshan-jayawardhana-286613240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
-<a href="https://wa.me/+94765315828"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" style="width: 100px; height: 40px"></a> &nbsp;&nbsp; 
-<a href="https://fb.com/sachintha deshan" target="blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" style="width: 100px; height: 40px"></a> </br>
-</p>
+  <a href="https://wa.me/+94765315828">
+    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" style="width: 100px; height: 40px" />
+  </a>
+  <a href="https://fb.com/sachintha deshan" target="blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" style="width: 100px; height: 40px"/>
+  </a> 
+  
+  </br>
+</p>		
 <br>
 <h2 align="left"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px> Languages and Tools:</h2>
 <p align="Center"> 
