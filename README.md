@@ -31,7 +31,13 @@
   <a href="mailto:lahirujayawardana6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/deshan-jayawardhana-286613240" rel="nofollow"><img src="https://camo.githubusercontent.com/e9936ff00928028fc610bb2b3ed5a3e41a1d082e62436bd0f8ec2f2c7efba609/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="width: 100px; height: 40px"></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deshan-jayawardhana-286613240" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://web.facebook.com/sandun.lb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+
 <a href="http://github.com/Desh524"><img src="https://camo.githubusercontent.com/87c82381e50ddc78de91c6f4535bd8a3bf8e02ba6954f07e07d6c751503b385a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333138313731372e7376673f7374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" style="width: 100px; height: 40px"></a> &nbsp;&nbsp; 
 <a href="https://wa.me/+94765315828"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" style="width: 100px; height: 40px"></a> &nbsp;&nbsp; 
 <a href="https://fb.com/sachintha deshan" target="blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" style="width: 100px; height: 40px"></a> </br>
