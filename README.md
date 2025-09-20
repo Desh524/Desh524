@@ -10,7 +10,7 @@
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> About Me </h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="300px;" ></p>
 
-- 🌱 I’m currently learning **php, C#, JavaScript, MySql**
+- 🌱 I’m currently learning **php, C#, JavaScript, MySql, ReactJs**
 
 - 🤝 I’m looking **get the job**
 
